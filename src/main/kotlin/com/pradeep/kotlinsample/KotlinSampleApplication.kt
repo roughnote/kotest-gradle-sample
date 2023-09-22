@@ -1,11 +1,11 @@
-package com.pradeep.databaselearning
+package com.pradeep.kotlinsample
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DatabaseLearningApplication
+class KotlinSampleApplication
 
 fun main(args: Array<String>) {
-	runApplication<DatabaseLearningApplication>(*args)
+	runApplication<KotlinSampleApplication>(*args)
 }

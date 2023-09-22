@@ -1,10 +1,10 @@
-package com.pradeep.databaselearning
+package com.pradeep.kotlinsample
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class DatabaseLearningApplicationTests {
+class KotlinSampleApplicationTests {
 
 	@Test
 	fun contextLoads() {
